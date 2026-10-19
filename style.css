@@ -56,3 +56,11 @@ h1 {
 
 .presentacion { margin: 0 0 8px; font-size: 1.1rem; font-weight: 700; }
 .descripcion { max-width: 440px; margin: 0 auto; color: #617087; }
+
+footer {
+  margin-top: 36px;
+  padding-top: 24px;
+  border-top: 1px solid #e6eaf0;
+  color: #617087;
+  font-size: 0.8rem;
+}
