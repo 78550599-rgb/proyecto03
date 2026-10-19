@@ -24,3 +24,12 @@ versión final. Se revisaron los cambios antes de guardar cada versión.
 
 Este repositorio es local. No se creó ni se publicó un repositorio de GitHub;
 todavía no se ha elegido una cuenta o un enlace de destino.
+
+## Práctica local de dos equipos
+
+Se creó un segundo clon en otra carpeta del mismo equipo. En ese clon se añadió
+esta sección y se guardó un commit. El repositorio original incorporó ese commit
+con `git pull --ff-only <ruta-del-clon> main`.
+
+Esta simulación practica clonar, registrar cambios e integrar un avance lineal.
+No demuestra una publicación, invitación ni colaboración en GitHub.
